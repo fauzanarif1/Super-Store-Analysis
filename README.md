@@ -14,50 +14,38 @@ Contains transaction-level data including sales, profit, discount, product categ
 
 **🛠️ Tools & Technologies**
 
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 **🔍 Analysis Steps**
 
-Data loading and understanding
-
-Data cleaning and validation
-
-Exploratory Data Analysis (EDA)
-
-Sales and profit analysis by category, sub-category, and region
-
-Discount vs profit analysis
+- Data loading and understanding
+- Data cleaning and validation
+- Exploratory Data Analysis (EDA)
+- Sales and profit analysis by category, sub-category, and region
+- Discount vs profit analysis
 
 Insight generation and business recommendations
 
 **📈 Key Insights**
 
-Technology category generates the highest profit among all categories
-
-Several sub-categories have high sales but negative profit
-
-Higher discounts are strongly associated with lower profit
-
-The West region shows the best overall profit performance
+- Technology category generates the highest profit among all categories
+- Several sub-categories have high sales but negative profit
+- Higher discounts are strongly associated with lower profit
+- The West region shows the best overall profit performance
 
 **💡 Business Recommendations**
 
 Re-evaluate discount strategies on loss-making sub-categories
-
+-
 Focus on products with high profit margins instead of high sales volume
-
+-
 Optimize sales strategy based on regional performance
-
+-
 **📌 How to Run**
 
 Clone or download this repository
