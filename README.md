@@ -40,16 +40,12 @@ Insight generation and business recommendations
 
 **💡 Business Recommendations**
 
-Re-evaluate discount strategies on loss-making sub-categories
--
-Focus on products with high profit margins instead of high sales volume
--
-Optimize sales strategy based on regional performance
--
+- Re-evaluate discount strategies on loss-making sub-categories
+- Focus on products with high profit margins instead of high sales volume
+- Optimize sales strategy based on regional performance
+
 **📌 How to Run**
 
-Clone or download this repository
-
-Open superstore_analysis.ipynb using Jupyter Notebook
-
-Run all cells to reproduce the analysis
+- Clone or download this repository
+- Open superstore_analysis.ipynb using Jupyter Notebook
+- Run all cells to reproduce the analysis
