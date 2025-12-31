@@ -7,7 +7,7 @@ This project analyzes a real-world retail dataset (Sample Superstore) to underst
 
 Name: Sample Superstore Dataset
 
-Source: Public dataset (Retail sales data)
+Source: Public dataset (Kaggle)
 
 **Description:**
 Contains transaction-level data including sales, profit, discount, product category, sub-category, and region.
